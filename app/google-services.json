@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690688805115",
+    "project_id": "newsgo-63e69",
+    "storage_bucket": "newsgo-63e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690688805115:android:523504d03b8082d0fe485e",
+        "android_client_info": {
+          "package_name": "com.project.newsgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqE0WAr3Ef1whz_76ugZu_eUJjoIBQ1x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

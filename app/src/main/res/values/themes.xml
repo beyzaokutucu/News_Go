@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NewsGo" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:ambientShadowAlpha">0.5</item>
+        <item name="android:spotShadowAlpha">0.5</item>
+        <item name="android:statusBarColor">@color/primaryColor</item>
+    </style>
+
+    <style name="Theme.NewsGo" parent="Base.Theme.NewsGo" />
+</resources>

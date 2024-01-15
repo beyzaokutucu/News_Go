@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsGo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_title_placeholder">SEC approves bitcoin ETFs (for real this time)</string>
+    <string name="news_content_placeholder">The Securities and Exchange Commission has approved the applications of 11 spot bitcoin ETFs in a highly anticipated decision that will make it much easier for people to dabble in cryptocurrency in…</string>
+</resources>

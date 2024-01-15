@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fabButtonColor">#5FC5FF</color>
+    <color name="primaryColor">#35B6FF</color>
+    <color name="textButtonColor">#35B6FF</color>
+    <color name="descriptionTextColor">#6D6D6D</color>
+    <color name="unSelectedIndicator">#FFD7D4</color>
+    <color name="selectedIndicator">#FF8982</color>
+    <color name="titleTextColor">#343434</color>
+    <color name="fabColor">#FFD180</color>
+    <color name="borderTextColor">#0384C6</color>
+    <color name="borderTextShadowColor">#E0F0F8</color>
+    <color name="borderNotFocusedTextColor">#E4E4E4</color>
+</resources>
