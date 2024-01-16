@@ -4,11 +4,25 @@ NewsGo, haberleri görüntülemenize ve favori haberleri yönetmenize olanak tan
 
 ## Özellikler
 
-- Haber listesini görüntüleme
--  ![İmages](https://github.com/beyzaokutucu/News_Go/blob/215b166e3c17907785ae0fa18b15357222341e56/app/src/main/res/drawable/home.jpeg)
-- Favori haberleri yönetme
-- Haber detaylarını görüntüleme
-- Haber kaynağına gitme
+- **Haber Listesi Görüntüleme:**
+  <img src="https://github.com/beyzaokutucu/News_Go/blob/215b166e3c17907785ae0fa18b15357222341e56/app/src/main/res/drawable/home.jpeg" alt="Haber Listesi" width="200"/>
+
+  Uygulama içindeki güncel haber listesini görüntüleyebilirsiniz.
+
+- **Favori Haberleri Yönetme:**
+  <img src="https://github.com/beyzaokutucu/News_Go/blob/215b166e3c17907785ae0fa18b15357222341e56/app/src/main/res/drawable/favorites.jpeg" alt="Favori Haberler" width="200"/>
+
+  Beğendiğiniz haberleri favorilere ekleyebilir ve daha sonra yönetebilirsiniz.
+
+- **Haber Detaylarını Görüntüleme:**
+  <img src="https://github.com/beyzaokutucu/News_Go/blob/215b166e3c17907785ae0fa18b15357222341e56/app/src/main/res/drawable/news_detail.jpeg" alt="Haber Detayları" width="200"/>
+
+  Her haberin detaylarını inceleyebilirsiniz.
+
+- **Haber Kaynağına Gitme:**
+  <img src="https://github.com/beyzaokutucu/News_Go/blob/215b166e3c17907785ae0fa18b15357222341e56/app/src/main/res/drawable/webview.jpeg" alt="Haber Kaynağı" width="200"/>
+
+  Haberin kaynağına doğrudan gitme özelliği.
 
 ## Kullanılan Teknolojiler
 
