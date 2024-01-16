@@ -5,6 +5,7 @@ NewsGo, haberleri görüntülemenize ve favori haberleri yönetmenize olanak tan
 ## Özellikler
 
 - Haber listesini görüntüleme
+-  ![İmages](https://github.com/beyzaokutucu/News_Go/blob/215b166e3c17907785ae0fa18b15357222341e56/app/src/main/res/drawable/home.jpeg)
 - Favori haberleri yönetme
 - Haber detaylarını görüntüleme
 - Haber kaynağına gitme
